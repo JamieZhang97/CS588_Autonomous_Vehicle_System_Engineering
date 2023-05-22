@@ -1,0 +1,7 @@
+<launch>
+
+	<!-- <node pkg="project" type="test_optim_node" name="test_optim_node" output="screen" /> -->
+	<node pkg="teb_local_planner" type="test_optim_node" name="test_optim_node" output="screen" />
+
+</launch>
+
